@@ -16,10 +16,9 @@ const TodoDetail = () => {
             navigate("/");
           }}
         >
-          뒤로가기
+          이전으로
         </Btn>
       </SmallPostBox>
-
       <H1>{location.state.title}</H1>
       <BodyBox>{location.state.body}</BodyBox>
     </PostBox>

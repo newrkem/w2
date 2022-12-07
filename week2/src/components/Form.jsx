@@ -57,8 +57,7 @@ const InputForm = styled.form`
   gap: 20px;
 `;
 const Input = styled.input`
-  width: 40px;
-  height: 240px;
+  height: 70px;
   border: none;
   border-radius: 12px;
   padding: 0px 12px;
